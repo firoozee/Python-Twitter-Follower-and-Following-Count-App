@@ -9,7 +9,7 @@ Have a Gmail account to send the email from and enter your email credentials (se
 Have a receiver email address to send the email to and enter it in the code.
 Install the required libraries using the following command:
 ```bash
-pip install tweepy openpyxl schedule
+pip install tweepy openpyxl schedule smtplib
 ```
 Usage
 Clone or download the Python script to your computer.
